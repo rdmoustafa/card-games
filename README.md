@@ -18,8 +18,8 @@ To get started with the Card Games Collection, you need to have Java and Maven i
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/rdmoustafa/card_games.git
-    cd card_games
+    git clone https://github.com/rdmoustafa/card-games.git
+    cd card-games
     ```
 
 2. **Build the project:**
